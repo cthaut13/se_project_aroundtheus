@@ -9,7 +9,7 @@
   margin-top: 30px;
   list-style-type: none;
 }
-.card__list {
+.cards__list {
   display: grid;
   justify-content: center;
 
