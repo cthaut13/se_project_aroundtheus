@@ -24,3 +24,6 @@ This project is made to show responsive design using Figma, Grid and Flex. Media
 [yosemite](./images/yosemite.jpg)
 [logo](./images/logo.svg)
 [like-button](./images/like-inactive.svg)
+
+**Link to Project**
+https://cthaut13.github.io/se_project_aroundtheus
