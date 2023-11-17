@@ -113,8 +113,7 @@
     padding-top: 42px;
   }
   .profile__image {
-    margin-left: 78px;
-    margin-right: 72px;
+    margin: 0 auto;
   }
   .profile__title {
     font-size: 22px;
