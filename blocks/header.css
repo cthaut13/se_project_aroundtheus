@@ -2,7 +2,7 @@
   margin-top: 45px;
   max-width: 880px;
   width: 100%;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
 }
 .header__image {
   margin-bottom: 40px;
@@ -11,7 +11,6 @@
 }
 @media screen and (max-width: 1100px) {
   .header {
-    width: 100%;
     margin: 0 auto;
     padding-top: 45px;
   }
@@ -19,62 +18,40 @@
 @media screen and (max-width: 920px) {
   .header {
     max-width: 584px;
-    width: 100%;
-    margin: 0 auto;
+
     padding-top: 45px;
     padding-left: 20px;
   }
 }
 @media screen and (max-width: 800px) {
   .header {
-    max-width: 584px;
-    width: 100%;
-    margin: 0 auto;
-    padding-left: 20px;
     padding-right: 20px;
   }
 }
-@media screen and (max-width: 670px) {
-  .header {
-    max-width: 584px;
-    width: 100%;
-    margin: 0 auto;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
+
 @media screen and (max-width: 638px) {
   .header {
-    max-width: 584px;
-    width: 100%;
-    margin: 0 auto;
     padding-right: 0;
     padding-left: 0;
   }
 }
 @media screen and (max-width: 560px) {
   .header {
-    height: 56px;
+    min-height: 56px;
     min-width: 282px;
-    margin: 28px 0 37px;
-    width: 100%;
+    margin: 0;
+    padding-top: 28px;
+    padding-bottom: 42px;
   }
   .header__image {
     width: 126px;
     height: 24px;
     margin-left: 27px;
+    margin-bottom: 32px;
   }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 340px) {
   .header {
-    height: 56px;
-    min-width: 282px;
-    margin: 28px 0 37px;
-    width: 100%;
-  }
-  .header__image {
-    width: 126px;
-    height: 24px;
-    margin-left: 27px;
+    max-width: 282px;
   }
 }

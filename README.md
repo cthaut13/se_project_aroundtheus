@@ -4,18 +4,23 @@
 
 - Intro
 - Figma
-- Images  
-   https://github.com/cthaut13/se_project_aroundtheus.git
+- Images
   **Intro**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is made to show responsive design using Figma, Grid and Flex. Media queries are used to dipslay a smooth responsive design between different browsers.
 
 **Figma**
 
 - [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
 
 **Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+[add-icon](./images/add-icon.svg)
+[edit-icon](./images/edit-icon.svg)
+[jacques-cousteau](./images/jacques-cousteau.png)
+[lago](./images/lago.jpg)
+[lake-louise](./images/lake-louise.jpg)
+[latemar](./images/latemar.jpg)
+[vanoise](./images/vanoise.jpg)
+[yosemite](./images/yosemite.jpg)
+[logo](./images/logo.svg)
+[like-button](./images/like-inactive.svg)

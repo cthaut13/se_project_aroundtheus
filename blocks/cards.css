@@ -1,15 +1,13 @@
-.cards {
+.card {
   font-weight: 900;
   line-height: normal;
   color: #000;
-}
-.card {
   display: flex;
   flex-direction: column;
-  margin-top: 30px;
+
   list-style-type: none;
 }
-.cards__list {
+.card__list {
   display: grid;
   justify-content: center;
 
