@@ -52,6 +52,10 @@ function openModal() {
 function fillProfileForm() {
   profileTitleInput.value = profileTitle.textContent;
   profileDescriptionInput.value = profileDescription.textContent;
+}
+
+function openProfileForm() {
+  fillProfileForm();
   openModal();
 }
 
@@ -78,7 +82,7 @@ function handleProfileEditSubmit(e) {
 
 /* EVENT LISTENERS */
 
-profileEditButton.addEventListener("click", fillProfileForm, openModal);
+profileEditButton.addEventListener("click", openProfileForm);
 
 profileEditCloseButton.addEventListener("click", closePopup);
 
